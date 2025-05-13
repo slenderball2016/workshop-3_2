@@ -1,4 +1,4 @@
-# Практична робота 3
+# Практична робота 3-2
 ## Бортнік Нікіта ІПЗ-2.02
 Завдання у Figma:
 https://www.figma.com/design/ryFpYWpdlvy9a7my1olG76/Practic-3_2?t=wI8IapDihEJjavQ6-0
